@@ -607,4 +607,4 @@ def update_sub_area(clickData):
 
 #app.run_server(mode='inline')
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False)
